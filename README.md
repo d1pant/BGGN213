@@ -1,2 +1,2 @@
 # BGGN213
-Bioinformatics class winter 2022 @ UCSD.
+Bioinformatics class winter 2022 @ UC San Diego.
